@@ -163,6 +163,7 @@ p {
     width: 330px;
     position: static;
     left: 10%;
+    text-align: center;
   }
 
   #title {
